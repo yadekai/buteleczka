@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suplementy", "Suplementy\Suplementy.csproj", "{E8F18B7E-183F-438E-A47B-7291B8EA9AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8F18B7E-183F-438E-A47B-7291B8EA9AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F18B7E-183F-438E-A47B-7291B8EA9AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F18B7E-183F-438E-A47B-7291B8EA9AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F18B7E-183F-438E-A47B-7291B8EA9AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2504C3AE-6F75-43E1-A694-99DF020B0AA1}
+	EndGlobalSection
+EndGlobal
